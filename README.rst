@@ -32,13 +32,19 @@ Expected Docstring format:
 
     """
     @Feature: Login
+
     @Test: Log in as a valid user
+
     @Setup: Navigate to abc.com
+
     @Steps:
-     1.  Launch the url
-     2.  Log in with valid user credentials
+    1.  Launch the url
+    2.  Log in with valid user credentials
+
     @Assert: Log in successful
+
     @BZ: #1234567
+
     @Status: Manual (REMOVE this field once automated)
     """
 
