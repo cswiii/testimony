@@ -30,8 +30,7 @@ Expected Docstring format:
 
 ::
 
-    """
-    @Feature: Login
+    """@Feature: Login
 
     @Test: Log in as a valid user
 
@@ -46,6 +45,7 @@ Expected Docstring format:
     @BZ: #1234567
 
     @Status: Manual (REMOVE this field once automated)
+
     """
 
 Usage:
